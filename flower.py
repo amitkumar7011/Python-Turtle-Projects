@@ -11,7 +11,7 @@ sc = turtle.Screen()
 sc.title('Karm kiye jao.!!..Fall ki Chinta na kro.!!')
 sc.bgcolor('black')
 
-a.color("blue", "red")
+a.color("green", "red")
 a.speed(6)  # 0 - fast speed,,,, 1--slow speed,,,,,,  5--average
 a.fd(-150)
 
